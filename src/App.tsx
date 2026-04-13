@@ -107,9 +107,9 @@ export default function App() {
         </div>
       </nav>
 
-      <main className="flex-1 max-w-7xl mx-auto px-4 py-6 w-full">
+      <main className="flex-1 max-w-7xl mx-auto px-4 py-2 w-full">
         {/* Dashboard Header */}
-        <div className="mb-6">
+        <div className="mb-2">
           <motion.div
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
@@ -147,7 +147,7 @@ export default function App() {
           <motion.div 
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            className="mt-16 flex justify-end"
+            className="mt-6 flex justify-end"
           >
             <ExportButton 
               activeTab={activeTab} 

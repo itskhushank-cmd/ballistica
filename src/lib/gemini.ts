@@ -1,7 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 
 const ai = new GoogleGenAI({ 
-  apiKey: (import.meta.env.VITE_GEMINI_API_KEY) || (process.env.GEMINI_API_KEY) || '' 
+  apiKey: ((import.meta as any).env.VITE_GEMINI_API_KEY) || (process.env.GEMINI_API_KEY) || '' 
 });
 
 export interface BallisticsAnalysis {

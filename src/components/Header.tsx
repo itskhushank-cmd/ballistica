@@ -4,7 +4,7 @@ import { Shield, Activity, Cpu } from 'lucide-react';
 export default function Header() {
   return (
     <header className="border-b border-white/10 bg-black/50 backdrop-blur-xl z-[60]">
-      <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-4 h-12 flex items-center justify-between">
         <div className="flex items-center gap-4">
           <div className="relative group">
             <div className="absolute inset-0 bg-brand-primary/20 blur-lg rounded-lg group-hover:bg-brand-primary/40 transition-all" />
