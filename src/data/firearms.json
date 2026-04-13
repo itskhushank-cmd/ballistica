@@ -1,0 +1,200 @@
+[
+  {
+    "id": "glock-17",
+    "manufacturer": "Glock",
+    "model": "17",
+    "caliber": "9mm Luger",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 2.5,
+    "notes": "Polygonal rifling."
+  },
+  {
+    "id": "beretta-92fs",
+    "manufacturer": "Beretta",
+    "model": "92FS",
+    "caliber": "9mm Luger",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.8,
+    "notes": "Standard rifling."
+  },
+  {
+    "id": "ak-47",
+    "manufacturer": "Izhmash",
+    "model": "AK-47",
+    "caliber": "7.62x39mm",
+    "lands": 4,
+    "grooves": 4,
+    "twist": "Right",
+    "landWidth": 3.1,
+    "notes": "Standard rifling."
+  },
+  {
+    "id": "lee-enfield-no4",
+    "manufacturer": "Enfield",
+    "model": "No. 4 Mk I",
+    "caliber": ".303 British",
+    "lands": 5,
+    "grooves": 5,
+    "twist": "Left",
+    "landWidth": 2.2,
+    "notes": "Left-hand twist is characteristic."
+  },
+  {
+    "id": "colt-m1911",
+    "manufacturer": "Colt",
+    "model": "M1911A1",
+    "caliber": ".45 ACP",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Left",
+    "landWidth": 2.1,
+    "notes": "Classic left-hand twist."
+  },
+  {
+    "id": "sig-p226",
+    "manufacturer": "SIG Sauer",
+    "model": "P226",
+    "caliber": "9mm Luger",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.9,
+    "notes": "High precision rifling."
+  },
+  {
+    "id": "remington-700",
+    "manufacturer": "Remington",
+    "model": "700",
+    "caliber": ".308 Winchester",
+    "lands": 4,
+    "grooves": 4,
+    "twist": "Right",
+    "landWidth": 2.8,
+    "notes": "Varies by barrel profile."
+  },
+  {
+    "id": "sw-mp9",
+    "manufacturer": "Smith & Wesson",
+    "model": "M&P9",
+    "caliber": "9mm Luger",
+    "lands": 5,
+    "grooves": 5,
+    "twist": "Right",
+    "landWidth": 2.0,
+    "notes": "5-groove rifling is common for S&W."
+  },
+  {
+    "id": "ruger-lc9",
+    "manufacturer": "Ruger",
+    "model": "LC9",
+    "caliber": "9mm Luger",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.7,
+    "notes": "Standard 6-groove."
+  },
+  {
+    "id": "walther-ppk",
+    "manufacturer": "Walther",
+    "model": "PPK",
+    "caliber": ".380 ACP",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.5,
+    "notes": "Precision German rifling."
+  },
+  {
+    "id": "hk-usp",
+    "manufacturer": "Heckler & Koch",
+    "model": "USP",
+    "caliber": ".40 S&W",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 2.4,
+    "notes": "Polygonal rifling profile."
+  },
+  {
+    "id": "cz-75",
+    "manufacturer": "CZ",
+    "model": "75B",
+    "caliber": "9mm Luger",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.85,
+    "notes": "Standard European rifling."
+  },
+  {
+    "id": "fn-five-seven",
+    "manufacturer": "FN Herstal",
+    "model": "Five-seveN",
+    "caliber": "5.7x28mm",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.2,
+    "notes": "Small caliber high velocity."
+  },
+  {
+    "id": "taurus-g3",
+    "manufacturer": "Taurus",
+    "model": "G3",
+    "caliber": "9mm Luger",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.9,
+    "notes": "Standard rifling."
+  },
+  {
+    "id": "springfield-xd",
+    "manufacturer": "Springfield Armory",
+    "model": "XD-9",
+    "caliber": "9mm Luger",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 2.1,
+    "notes": "Standard rifling."
+  },
+  {
+    "id": "makarov-pm",
+    "manufacturer": "Makarov",
+    "model": "PM",
+    "caliber": "9x18mm Makarov",
+    "lands": 4,
+    "grooves": 4,
+    "twist": "Right",
+    "landWidth": 2.9,
+    "notes": "4-groove Soviet standard."
+  },
+  {
+    "id": "steyr-aug",
+    "manufacturer": "Steyr",
+    "model": "AUG",
+    "caliber": "5.56x45mm NATO",
+    "lands": 6,
+    "grooves": 6,
+    "twist": "Right",
+    "landWidth": 1.6,
+    "notes": "1:9 twist common."
+  },
+  {
+    "id": "mosin-nagant",
+    "manufacturer": "Tula/Izhevsk",
+    "model": "91/30",
+    "caliber": "7.62x54mmR",
+    "lands": 4,
+    "grooves": 4,
+    "twist": "Right",
+    "landWidth": 3.4,
+    "notes": "Wide lands, deep grooves."
+  }
+]

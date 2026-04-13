@@ -1,0 +1,5 @@
+{
+  "name": "Ballistica",
+  "description": "A simple tool for forensic ballistics analysis, headstamp identification, and bullet matching.",
+  "requestFramePermissions": []
+}
